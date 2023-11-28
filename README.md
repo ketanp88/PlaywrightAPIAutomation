@@ -18,7 +18,7 @@ Steps:
 
     6. Copy the token from the website
 
-    7. Open file 'playwright.config.ts' and navigate to section projects and paste the token in front of extraHTTPHeaders as    token value  
+    7. Open file 'playwright.config.ts' and navigate to section projects and paste the token in front of extraHTTPHeaders as token value  
     
     8. Select Testing tab from left tree in visual studio code.
     
