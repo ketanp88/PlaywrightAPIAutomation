@@ -1,0 +1,17 @@
+{
+  "name": "playwrightapiautomation",
+  "version": "1.0.0",
+  "description": "This will give you Basic idea about how to automate API using playwright and typescript.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.10.0"
+  },
+  "dependencies": {
+    "typescript": "^5.3.2"
+  }
+}
