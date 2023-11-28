@@ -29,7 +29,7 @@ export default defineConfig({
       use: { 
         baseURL: 'https://gorest.co.in/public/v2/',
         extraHTTPHeaders: {
-          "Authorization": "Bearer 123b934dd48340c191d0ee731fac0f54e122ac016798c5dba1bec7f5200ed2b1",
+          "Authorization": "Bearer <token>",
         }
         
        },
